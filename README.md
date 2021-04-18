@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NikitaMetlitskiy
+- 👀 I’m interested in films, sports, new meetings
+- 🌱 I’m currently learning SWIFT language
+- 💞️ I’m looking to collaborate on various interesting projects
+- 📫 How to reach me nikita.metlitskiy@gmail.com
