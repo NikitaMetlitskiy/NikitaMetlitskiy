@@ -2,4 +2,4 @@
 - 👀 I’m interested in films, sports, new meetings
 - 🌱 I’m currently learning SWIFT language
 - 💞️ I’m looking to collaborate on various interesting projects
-- 📫 How to reach me nikita.metlitskiy@gmail.com
+- 📫 How to reach me nikita.metlitskiy@gmail.com or https://nm-resume.netlify.app/
